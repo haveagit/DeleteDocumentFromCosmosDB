@@ -1,4 +1,5 @@
-# CosmosDB‚Ì”CˆÓ‚ÌƒhƒLƒ…ƒƒ“ƒg‚©‚çƒŒƒR[ƒh‚ğ‘SŒíœ‚·‚é‚½‚ß‚ÌƒvƒƒOƒ‰ƒ€
-# VisualStudio‘¤‚ÅMicrosoft.Azure.Document.Core‚ª•K—viNuGet‚ÅƒCƒ“ƒXƒg[ƒ‹j
+# CosmosDBã®ä»»æ„ã®ãƒ‰ã‚­ãƒ¥ãƒ¡ãƒ³ãƒˆã‹ã‚‰ãƒ¬ã‚³ãƒ¼ãƒ‰ã‚’å…¨ä»¶å‰Šé™¤ã™ã‚‹ãŸã‚ã®ãƒ—ãƒ­ã‚°ãƒ©ãƒ 
 
-QlƒTƒCƒg [Azure Cosmos DB“ü–åi3j](http://ryuichi111std.hatenablog.com/entry/2017/05/28/145047#322-%E3%83%87%E3%83%BC%E3%82%BF%E3%83%99%E3%83%BC%E3%82%B9%E3%81%A8%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%AE%E4%BD%9C%E6%88%90)
+VisualStudioå´ã§Microsoft.Azure.DocumentDB.CoreãŒå¿…è¦ï¼ˆNuGetã§ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«ï¼‰
+
+å‚è€ƒã‚µã‚¤ãƒˆ [Azure Cosmos DBå…¥é–€ï¼ˆ3ï¼‰](http://ryuichi111std.hatenablog.com/entry/2017/05/28/145047#322-%E3%83%87%E3%83%BC%E3%82%BF%E3%83%99%E3%83%BC%E3%82%B9%E3%81%A8%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%AE%E4%BD%9C%E6%88%90)
